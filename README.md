@@ -7,6 +7,6 @@ you can using this cmd for install pygame.
 
 or 
 
-using an enviroment with pygame such as REPLT...
+using an enviroment with pygame such as REPLIT...
 
 Jia Le
